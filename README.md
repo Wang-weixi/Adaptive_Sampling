@@ -1,6 +1,4 @@
 # restricted_sampling
-cvpr 2022
-## Brief description of your algorithm and a mention of the competition.
 This is the code for cvpr 2022 paper "Restricted MCMC Sampling for Solving Inverse Imaging Problems with
 Untrained Deep Network".
 ## Usage instructions.
