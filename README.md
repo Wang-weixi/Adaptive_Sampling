@@ -1,6 +1,5 @@
 # Restricted Sampling
-This is the code for cvpr 2022 paper "Restricted MCMC Sampling for Solving Inverse Imaging Problems with
-Untrained Deep Network".
+This is the code for cvpr 2022 paper "Self-supervised Deep Image Restoration via Adaptive Stochastic Gradient Langevin Dynamics".
 ## Usage instructions.
 See the ```requirements.txt``` to install the dependent packages and librairies.
 ## Installation instructions, including any requirements.
