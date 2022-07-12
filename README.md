@@ -13,3 +13,8 @@ See the ```requirements.txt``` to install the dependent packages and librairies.
     pip3 install -r requirements.txt # install the dependency 
     deactivate
     ```
+
+## Phase Retrieval
+
+If you have any questions of the code, please feel free to contact [Ji Li](mailto:matliji@nus.edu.sg).
+
