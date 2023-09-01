@@ -24,8 +24,7 @@ If you find our work useful in your research or publication, please cite it:
   pages={1989--1998},
   year={2022}
 }
-
-
+```
 
 ## Phase Retrieval
 
