@@ -1,9 +1,9 @@
-# Restricted Sampling
+# Adaptive Sampling
 This is the code for cvpr 2022 paper "Self-supervised Deep Image Restoration via Adaptive Stochastic Gradient Langevin Dynamics".
 ## Usage instructions.
-See the ```requirements.txt``` to install the dependent packages and librairies.
+See the ```requirements.txt``` to install the dependent packages and libraries.
 ## Installation instructions, including any requirements.
-See the ```requirements.txt``` to install the dependent packages and librairies.
+See the ```requirements.txt``` to install the dependent packages and libraries.
 
  + Use ```conda```  constrcut the virtual environment
     ```python
