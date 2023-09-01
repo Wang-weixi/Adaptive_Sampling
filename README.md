@@ -16,14 +16,14 @@ See the ```requirements.txt``` to install the dependent packages and libraries.
 ## Citation
 If you find our work useful in your research or publication, please cite it:
 
-\begin{bmatrix}
-\text{@inproceedings{wang2022self,}\\
-  \text{title={Self-supervised deep image restoration via adaptive stochastic gradient langevin dynamics},}\\
-  \text{author={Wang, Weixi and Li, Ji and Ji, Hui},}\\
-  \text{booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},}\\
-  \text{pages={1989--1998},}\\
-  \text{year={2022}}
-\end{bmatrix}
+```python
+ @inproceedings{wang2022self,
+  title={Self-supervised deep image restoration via adaptive stochastic gradient langevin dynamics},
+  author={Wang, Weixi and Li, Ji and Ji, Hui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1989--1998},
+  year={2022}
+}
 
 
 
