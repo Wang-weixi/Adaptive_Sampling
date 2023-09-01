@@ -13,6 +13,17 @@ See the ```requirements.txt``` to install the dependent packages and libraries.
     pip3 install -r requirements.txt # install the dependency 
     deactivate
     ```
+##Citation
+If you find our work useful in your research or publication, please cite it:
+@inproceedings{wang2022self,
+  title={Self-supervised deep image restoration via adaptive stochastic gradient langevin dynamics},
+  author={Wang, Weixi and Li, Ji and Ji, Hui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1989--1998},
+  year={2022}
+}
+
+
 
 ## Phase Retrieval
 
