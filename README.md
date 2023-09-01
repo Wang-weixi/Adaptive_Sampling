@@ -16,8 +16,6 @@ See the ```requirements.txt``` to install the dependent packages and libraries.
 ## Citation
 If you find our work useful in your research or publication, please cite it:
 
-
-$$
 \begin{bmatrix}
 \text{@inproceedings{wang2022self,}\\
   \text{title={Self-supervised deep image restoration via adaptive stochastic gradient langevin dynamics},}\\
@@ -26,7 +24,6 @@ $$
   \text{pages={1989--1998},}\\
   \text{year={2022}}
 \end{bmatrix}
-$$
 
 
 
